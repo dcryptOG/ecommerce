@@ -24,14 +24,14 @@ A brief description of what this padfe sfddasdit's for
 
 
 ```bash
-  /home/nongareshop/ecommerce
-  /home/nongareshop/
-  /home/nongareshop/.virtualenvs/env
+  SOURCE CODE: /home/username/ecommerce
+  WORKING DIR: /home/username/
+  BIRTUAL ENV: /home/username/.virtualenvs/env
 
            # Paths
-         /static/	/home/nongareshop/ecommerce/static/
+         /static/	/home/username/ecommerce/static/
 
-         /media/	/home/nongareshop/ecommerce/media_root/
+         /media/	/home/username/ecommerce/media_root/
 ```
 9. WSGI
 import os
